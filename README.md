@@ -1,9 +1,15 @@
-### Hola 👋 Soy Danilo Ibañez
+### Hola 👋 
+Mi Nombre es Danilo Ibañez
+
+⚡ Soy FrontEnd Developer en Argentina
+En 2022 me plantee una nueva meta, aprender programación, ayudar a resolver problemas reales y ser capaz de crear soluciones innovadoras que generen impactos positivos.
 
 
-⚡ 
 
-https://camo.githubusercontent.com/c047e01bdd196fbad80a57febb6f42ee8c339c1f385f5d014b8a77c17d3c6327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d706c6173746963266c6f676f3d626f6f747374726170
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
+</p>
+
 
 <!--
 **DaniloIB/DaniloIB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
