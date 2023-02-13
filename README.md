@@ -3,7 +3,7 @@
 
 ⚡ 
 
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=react)](https://github.com/harish-sethuraman/readme-components)
+https://camo.githubusercontent.com/c047e01bdd196fbad80a57febb6f42ee8c339c1f385f5d014b8a77c17d3c6327/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d426f6f7473747261702d3536334437433f7374796c653d706c6173746963266c6f676f3d626f6f747374726170
 
 <!--
 **DaniloIB/DaniloIB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
