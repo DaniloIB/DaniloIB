@@ -1,7 +1,7 @@
 ### Hola 👋 
 <h2>Mi Nombre es Danilo Ibañez</h2>
 
-⚡ Soy FrontEnd Developer en Argentina
+<h4>⚡ Soy FrontEnd Developer en Argentina</h4>
 En 2022 me plantee una nueva meta, aprender programación, ayudar a resolver problemas reales y ser capaz de crear soluciones innovadoras que generen impactos positivos.
 
 
