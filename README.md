@@ -7,6 +7,12 @@ En 2022 me plantee una nueva meta, aprender programación, ayudar a resolver pro
 [![Linkedin: danilo](https://img.shields.io/badge/-daniloIbanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
 [![Gmail Badge](https://img.shields.io/badge/-ibaniez.danilo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibaniez.danilo@gmail.com)](mailto:ibaniez.danilo@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ibaniez.danilo@gmail.com)](mailto:ibaniez.danilo@gmail.com)
+
+
+
 ### About me
 
 * 🎨 Me encanta Angular - Tailwind
