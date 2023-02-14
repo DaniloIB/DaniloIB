@@ -4,6 +4,9 @@
 <h3>⚡ Soy FrontEnd Developer en Argentina</h3>
 En 2022 me plantee una nueva meta, aprender programación, ayudar a resolver problemas reales y ser capaz de crear soluciones innovadoras que generen impactos positivos.
 
+[![Linkedin: danilo](https://img.shields.io/badge/-daniloIbanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
+[![Gmail Badge](https://img.shields.io/badge/-ibaniez.danilo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ibaniez.danilo@gmail.com)](mailto:ibaniez.danilo@gmail.com)
+
 ### About me
 
 * 🎨 Me encanta Angular - Tailwind
@@ -11,7 +14,7 @@ En 2022 me plantee una nueva meta, aprender programación, ayudar a resolver pro
 * 🔥 Me emociona poder hacer posible lo que quiero
 
 
-[![Linkedin: danilo](https://img.shields.io/badge/-daniloIbanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
+
 
 
 
