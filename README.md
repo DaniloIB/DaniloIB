@@ -11,7 +11,7 @@ En 2022 me plantee una nueva meta, aprender programación, ayudar a resolver pro
 * 🔥 Me emociona poder hacer posible lo que quiero
 
 
-[![Linkedin: anmol](https://img.shields.io/badge/-danilo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
+[![Linkedin: danilo](https://img.shields.io/badge/-daniloIbanez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
 
 
 
