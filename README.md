@@ -3,10 +3,7 @@
 
 <h3>⚡ Soy Fullstack Developer en Argentina</h3>
 En 2022 me plantee una nueva meta, aprender programación. Actualmente estoy haciendo proyectos freelance: diseñando aplicaciones web con persistencia de datos, y páginas web estaticas para emprendedores y Pymes. 
-
-
-
-
+<hr>
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/DaniloIB)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/danilo-iba%C3%B1ez-964637183/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ibaniez.danilo@gmail.com)](mailto:ibaniez.danilo@gmail.com)
