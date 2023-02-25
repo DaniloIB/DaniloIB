@@ -1,7 +1,7 @@
 ### Hola 👋 
 <h2>Mi Nombre es Danilo Ibañez</h2>
 
-<h3>⚡ Soy Fullstack Developer en Argentina</h3>
+<h3>⚡ Soy FrontEnd Developer en Argentina</h3>
 En 2022 me plantee una nueva meta, aprender programación. Actualmente estoy haciendo proyectos freelance: diseñando aplicaciones web dinámicas, y páginas web estáticas para emprendedores y Pymes. 
 
 <h3></h3>
